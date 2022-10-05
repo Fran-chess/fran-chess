@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```javascript
+const fran-chess = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React,Node]
+}
+```
+You can find me 🌍
+- [🔗] {www.linkedin.com/in/franciscoleonardoprogrammer}
+- [Instagram] {https://www.instagram.com/franleonardo10}
 <!--
 **Fran-chess/fran-chess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
