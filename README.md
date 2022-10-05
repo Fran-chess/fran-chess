@@ -7,8 +7,8 @@ const fran-chess = {
 }
 ```
 You can find me 🌍
-- [🔗] {www.linkedin.com/in/franciscoleonardoprogrammer}
-- [Instagram] {https://www.instagram.com/franleonardo10}
+- [🔗] (www.linkedin.com/in/franciscoleonardoprogrammer)
+- [Instagram] (https://www.instagram.com/franleonardo10)
 <!--
 **Fran-chess/fran-chess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
