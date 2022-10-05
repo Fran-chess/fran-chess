@@ -1,25 +1,13 @@
 ### Hi there 👋
 
-```javascript
+## About me in code
+
+``` javascript
 const fran-chess = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React,Node]
 }
 ```
-You can find me 🌍
-- [🔗] (www.linkedin.com/in/franciscoleonardoprogrammer)
+## You can find me 🌍:
+- 💬 (www.linkedin.com/in/franciscoleonardoprogrammer)
 - [Instagram] (https://www.instagram.com/franleonardo10)
-<!--
-**Fran-chess/fran-chess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
