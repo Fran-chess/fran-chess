@@ -18,7 +18,7 @@
 
 ## About Me
 
-Proficient front-end developer with a professional and collaborative approach to work. Experienced in utilizing technologies such as React.js, Vite.js, and Tailwind CSS to create engaging and interactive web applications. Skilled in crafting responsive and user-friendly interfaces while adhering to industry best practices.
+Front-end developer with a professional and collaborative approach to work. Experienced in utilizing technologies such as React.js, Vite.js, and Tailwind CSS to create engaging and interactive web applications. Skilled in crafting responsive and user-friendly interfaces while adhering to industry best practices.
 
 ---
 
