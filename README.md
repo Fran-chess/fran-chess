@@ -9,6 +9,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -23,5 +26,7 @@ Proficient front-end developer with a professional and collaborative approach to
 
 Here are some of my highlighted projects:
 
+- [React practices](https://github.com/Fran-chess/small-project-React): Descripción del proyecto 1.
+- [Marvel Studios](https://github.com/Fran-chess/marvel-studios): Descripción del proyecto 2.
 
 Feel free to explore these projects and check out their repositories for more details and code. If you have any questions or feedback, don't hesitate to reach out!
